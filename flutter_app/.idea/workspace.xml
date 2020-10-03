@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="660ab751-7296-41ee-a0a9-87a1efde06cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DartProblemsView" auto-scroll-to-source="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hWhdaeBXlXbXo4U46ur4lvDG9c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Bunkie-ryan-s-branch" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="660ab751-7296-41ee-a0a9-87a1efde06cc" name="Default Changelist" comment="" />
+      <created>1600132844561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600132844561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1600138897878">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600138897878" />
+    <state width="1258" height="595" key="GridCell.Tab.0.bottom" timestamp="1600138901684">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="595" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600138901684" />
+    <state width="1258" height="595" key="GridCell.Tab.0.center" timestamp="1600138901683">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="595" key="GridCell.Tab.0.center/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600138901683" />
+    <state width="1258" height="595" key="GridCell.Tab.0.left" timestamp="1600138901683">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="595" key="GridCell.Tab.0.left/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600138901683" />
+    <state width="1258" height="595" key="GridCell.Tab.0.right" timestamp="1600138901683">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="595" key="GridCell.Tab.0.right/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600138901683" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1600134338190">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600134338190" />
+    <state x="92" y="92" width="2376" height="1216" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600137405642">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600137405642" />
+    <state x="823" y="458" key="com.intellij.ide.util.TipDialog" timestamp="1600137386255">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="823" y="458" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600137386255" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1600133632214">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.218.1920.1040@0.0.2560.1400" timestamp="1600133632214" />
+  </component>
+</project>

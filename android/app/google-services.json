@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764391275129",
+    "firebase_url": "https://bunkie-4ad3d.firebaseio.com",
+    "project_id": "bunkie-4ad3d",
+    "storage_bucket": "bunkie-4ad3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764391275129:android:dd8122a0f55795a69172a8",
+        "android_client_info": {
+          "package_name": "com.bunkieco.bunkieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764391275129-jimkejae0hdgtf907e7vmcjq22qg7nln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFelcTktytk4_UDVPmiOkVQgzhWoUVKv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764391275129-jimkejae0hdgtf907e7vmcjq22qg7nln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
